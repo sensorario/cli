@@ -1,5 +1,7 @@
 # Cli
 
+![cli.png](cli.png)
+
 ## Senza composer
 
     .
