@@ -2,6 +2,13 @@
 
 ![cli.png](cli.png)
 
+## Usage
+
+```php
+require_once __DIR__ . "/../vendor/autoload.php";
+Cli::println(Cli::red, "red");
+```
+
 ## Senza composer
 
     .
