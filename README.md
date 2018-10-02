@@ -31,3 +31,7 @@
             └── installed.json
 
     4 directories, 13 files
+
+## Packagist
+
+Su [packagist](https://packagist.org/packages/sensorario/colors) …
