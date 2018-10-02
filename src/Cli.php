@@ -8,7 +8,7 @@ final class Cli
 
     const yellow = "\033[0;33m";
 
-    const cyan = "\033[0;34m";
+    const blue = "\033[0;34m";
 
     const reset = "\033[0m";
 
