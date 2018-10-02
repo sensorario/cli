@@ -1,0 +1,15 @@
+{
+    "name": "sensorario/colors",
+    "authors": [
+        {
+            "name": "Simone Gentili",
+            "email": "sensorario@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {}
+}
