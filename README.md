@@ -35,3 +35,7 @@
 ## Packagist
 
 Su [packagist](https://packagist.org/packages/sensorario/colors) …
+
+## Install
+
+    composer require sensorario/colors ^1.0
