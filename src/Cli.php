@@ -10,6 +10,8 @@ final class Cli
 
     const blue = "\033[0;34m";
 
+    const violet = "\033[0;35m";
+
     const reset = "\033[0m";
 
     public static function println(string $color, string $stringa) : void
